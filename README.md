@@ -1,6 +1,4 @@
 # UAV-navigation-using-Q-learning-and-pid
-
-## Reinforcement Learning for Autonomous navigation of UAVs
 This repository contains the source code for implementing Q learning and pid based autonomous navigation of quadrotor, maneuvering towards the goal point, along the uniform grid distribution in indoor environments.
 
 ## Parameters:
