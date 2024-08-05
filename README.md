@@ -6,7 +6,7 @@ This repository contains the source code for implementing Q learning and pid bas
 - Action: Discrete
 - Action space: 5x5 grid space.
 
-Dependencies & Packages:
+## Dependencies & Packages:
 - Ubuntu 16.04
 - ROS Kinetic
 - Gazebo 7
